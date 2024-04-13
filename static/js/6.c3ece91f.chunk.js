@@ -1,1 +1,0 @@
-(this["webpackJsonpnew-lend"]=this["webpackJsonpnew-lend"]||[]).push([[6],{1022:function(n,e){}}]);
